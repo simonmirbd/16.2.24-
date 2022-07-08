@@ -25,18 +25,17 @@ http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
 http://95.87.227.29:8080/XYMlX_FOR_PLATFORM/index.m3u8
 #EXTINF:0,XY plus 
 http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
-#EXTINF:0,H
-
-
+#EXTINF:0,Hustler 
 http://193.33.240.8/hustler_hd/index.m3u8
 #EXTINF:0,Hustler 
 http://78.83.191.18:8000/play/a078
+EXTINF:0,jesmin
 http://195.154.185.179/xx_jasmin_tv/index.m3u8
-#EXTINF:0,
+#EXTINF:0,FTV
 http://195.154.185.179/xx_fashion_tv/index.m3u8
-#EXTINF:0,
+#EXTINF:0,Nuat
 http://195.154.185.179/xx_nuart_tv/index.m3u8
-#EXTINF:0,
+#EXTINF:0,playboy 
 http://195.154.185.179:80/xx_playboy_tv/index.m3u8
 #EXTINF:0,Hot
 http://195.154.185.179:80/xx_hot_tv/index.m3u8
